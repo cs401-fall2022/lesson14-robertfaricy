@@ -1,0 +1,19 @@
+{
+  "name": "lesson14-robertfaricy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs401-fall2022/lesson14-robertfaricy.git"
+  },
+  "author": "Robert Faricy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs401-fall2022/lesson14-robertfaricy/issues"
+  },
+  "homepage": "https://github.com/cs401-fall2022/lesson14-robertfaricy#readme"
+}
